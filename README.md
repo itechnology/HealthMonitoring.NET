@@ -14,3 +14,12 @@ HealthMonitoring is built into .NET since v2.0, and is the simplest solution to 
  * Everytime you do a try/catch for example
 * Have a small script client-side (for websites) which will automatically forward all ajax and window.onerror events to that same pipeline
  * Use the script to manually forward events
+
+
+###Quick Links
+
+Some quick links to get you up to speed
+
+* http://forums.asp.net/post/1402868.aspx
+* http://msdn.microsoft.com/en-us/library/ms998306.aspx
+* http://www.manuelabadia.com/blog/PermaLink,guid,77dd4e93-e052-4b65-9b9d-81a17f0e2b6e.aspx
