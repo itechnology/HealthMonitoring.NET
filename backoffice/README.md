@@ -13,12 +13,14 @@ HealthMonitoring.NET
      * catches all 400-599 error codes complete with stacktrace, request url, and more
 * Server-Side Logging
   * Trace custom errors inside your code
-     * Requires a custom provider
-     * Trace errors with complete stacktrace & custom object dumping
-     * Provider is provided by this project
+  * Trace errors with complete stacktrace & custom object dumping
+  * Requires a custom provider     
+      * Provider is provided by this project
 * Client-Side Logging
   * Catch and trace all errors from window.onerror & jQuery ajax requests
+      * No modifications required to client-side code
   * Trace custom exceptions
-     * Provider is provided by this project
+  * Requires a custom provider     
+      * Provider is provided by this project
 
 ![backoffice](snapshot.png "backoffice")
